@@ -1,0 +1,7 @@
+.right-password::after {
+    content: "house"
+}
+
+.wrong-password::after {
+    content: "flag"
+}

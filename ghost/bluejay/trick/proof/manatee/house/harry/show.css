@@ -1,0 +1,11 @@
+html {
+    background: blue;
+}
+
+.right-password {
+    content: "right"
+}
+
+.wrong-password {
+    content: "wrong"
+}
