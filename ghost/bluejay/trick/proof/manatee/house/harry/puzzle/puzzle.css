@@ -1,0 +1,5 @@
+.puzzle {
+    display: grid;
+    grid: 200px 200px 200px / 200px 200px 200px;
+}
+

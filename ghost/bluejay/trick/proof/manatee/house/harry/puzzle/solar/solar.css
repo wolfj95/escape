@@ -1,0 +1,10 @@
+.combination {
+    display: flex;
+    justify-content: center;
+}
+
+.disc {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    margin: 8px;
+}

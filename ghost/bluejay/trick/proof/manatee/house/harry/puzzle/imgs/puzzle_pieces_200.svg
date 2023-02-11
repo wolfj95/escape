@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916666 52.916666"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="puzzle pieces 200.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.61180243"
+     inkscape:cx="475.64374"
+     inkscape:cy="268.06039"
+     inkscape:window-width="1621"
+     inkscape:window-height="866"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1217">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1;"
+         offset="0"
+         id="stop1213" />
+      <stop
+         style="stop-color:#ff5555;stop-opacity:0;"
+         offset="1"
+         id="stop1215" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1209">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1;"
+         offset="0"
+         id="stop1205" />
+      <stop
+         style="stop-color:#ff5555;stop-opacity:0;"
+         offset="1"
+         id="stop1207" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1201">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1;"
+         offset="0"
+         id="stop1197" />
+      <stop
+         style="stop-color:#ff5555;stop-opacity:0;"
+         offset="1"
+         id="stop1199" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1187">
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1;"
+         offset="0"
+         id="stop1183" />
+      <stop
+         style="stop-color:#ff5555;stop-opacity:0;"
+         offset="1"
+         id="stop1185" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient479">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop475" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1"
+         offset="1"
+         id="stop477" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient481"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1189"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1203"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1211"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1219"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1790">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1792"
+         width="52.433369"
+         height="52.433372"
+         x="0.2416475"
+         y="53.158318" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1794"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1796"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1800"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1802"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1804">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1806"
+         width="52.433369"
+         height="52.433372"
+         x="0.2416475"
+         y="0.2416475" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1808"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1810"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1812"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1814"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1816"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1818">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1820"
+         width="52.433369"
+         height="52.433372"
+         x="53.158314"
+         y="0.2416475" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1822"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1824"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1826"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1828"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1830"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1953">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1955"
+         width="52.433369"
+         height="52.433372"
+         x="106.07497"
+         y="0.2416475" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1969"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1971"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1973"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1977">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1979"
+         width="52.433369"
+         height="52.433372"
+         x="53.158314"
+         y="53.158318" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1981"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1983"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient1987"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient1989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1991">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect1993"
+         width="52.433369"
+         height="52.433372"
+         x="106.07497"
+         y="53.158318" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient1995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient1997"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient1999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient2001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient2003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2005">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect2007"
+         width="52.433369"
+         height="52.433372"
+         x="0.2416475"
+         y="106.07497" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient2009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient2011"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient2013"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient2015"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient2017"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2019">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect2021"
+         width="52.433369"
+         height="52.433372"
+         x="53.158314"
+         y="106.07497" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient479"
+       id="radialGradient2023"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.5657544,1.1103103,-0.82772826,-1.1672583,783.42965,-64.436515)"
+       cx="344.22934"
+       cy="201.4911"
+       fx="344.22934"
+       fy="201.4911"
+       r="79.375" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient2025"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient2027"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient2029"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient2031"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2033">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.483296;stroke-opacity:1"
+         id="rect2035"
+         width="52.433369"
+         height="52.433372"
+         x="106.07497"
+         y="106.07497" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1217"
+       id="radialGradient2037"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.5284249,-0.77171041,0.13429892,-1.0936327,168.59596,44.536871)"
+       cx="44.839882"
+       cy="4.3131118"
+       fx="44.839882"
+       fy="4.3131118"
+       r="28.895386" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1201"
+       id="radialGradient2039"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.4574988,1.4042864,0.71120164,1.8733227,-63.263223,-109.35227)"
+       cx="-41.327915"
+       cy="175.06587"
+       fx="-41.327915"
+       fy="175.06587"
+       r="39.929981" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1187"
+       id="radialGradient2041"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0065188,-0.03342801,0.01655902,0.37658383,-141.26942,13.539351)"
+       cx="139.85004"
+       cy="30.66136"
+       fx="139.85004"
+       fy="30.66136"
+       r="54.853664" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1209"
+       id="radialGradient2043"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.9561526,-0.24477033,0.14003894,2.3020148,-260.59562,-58.289271)"
+       cx="112.46247"
+       cy="104.5377"
+       fx="112.46247"
+       fy="104.5377"
+       r="23.116493" />
+  </defs>
+  <g
+     inkscape:label="puzzle"
+     id="layer1"
+     clip-path="url(#clipPath2033)"
+     transform="translate(219.81692,15.081778)">
+    <rect
+       style="fill:url(#radialGradient481);fill-opacity:1;stroke-width:0.264583"
+       id="rect471"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient2037);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text113"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2037);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2037);fill-opacity:1;stroke-width:6.77489"
+   id="tspan285">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient2039);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text117"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2039);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2041);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text279"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2041);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2043);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text283"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan281"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2043);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1734"
+     clip-path="url(#clipPath1818)"
+     transform="translate(208.88263,-2.6393111)">
+    <rect
+       style="fill:url(#radialGradient1822);fill-opacity:1;stroke-width:0.264583"
+       id="rect1714"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1824);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1720"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1824);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1824);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1716">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1826);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1724"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1722"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1826);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1828);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1728"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1726"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1828);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1830);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1732"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1730"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1830);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1756"
+     clip-path="url(#clipPath1804)"
+     transform="translate(200.58765,-4.5245334)">
+    <rect
+       style="fill:url(#radialGradient1808);fill-opacity:1;stroke-width:0.264583"
+       id="rect1736"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1810);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1742"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1740"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1810);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1810);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1738">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1812);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1746"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1744"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1812);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1814);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1750"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1814);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1816);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1754"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1816);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1778"
+     clip-path="url(#clipPath1790)"
+     transform="translate(195.68607,5.2786223)">
+    <rect
+       style="fill:url(#radialGradient1794);fill-opacity:1;stroke-width:0.264583"
+       id="rect1758"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1796);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1764"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1796);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1796);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1760">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1798);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1768"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1798);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1800);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1772"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1770"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1800);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1802);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1776"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1802);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1856"
+     clip-path="url(#clipPath2019)"
+     transform="translate(214.91534,3.7704446)">
+    <rect
+       style="fill:url(#radialGradient2023);fill-opacity:1;stroke-width:0.264583"
+       id="rect1836"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient2025);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1842"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1840"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2025);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2025);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1838">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient2027);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1846"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1844"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2027);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2029);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1850"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1848"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2029);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2031);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1854"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2031);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1878"
+     clip-path="url(#clipPath2005)"
+     transform="translate(196.44016,12.065423)">
+    <rect
+       style="fill:url(#radialGradient2009);fill-opacity:1;stroke-width:0.264583"
+       id="rect1858"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient2011);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1864"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2011);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2011);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1860">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient2013);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1868"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1866"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2013);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2015);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1872"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1870"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2015);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2017);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1876"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2017);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1900"
+     clip-path="url(#clipPath1991)"
+     transform="translate(223.21032,7.1638446)">
+    <rect
+       style="fill:url(#radialGradient1995);fill-opacity:1;stroke-width:0.264583"
+       id="rect1880"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1997);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1886"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1997);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1997);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1882">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1999);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1890"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1888"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1999);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2001);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1894"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2001);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2003);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1898"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient2003);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1922"
+     clip-path="url(#clipPath1977)"
+     transform="translate(217.55465,0.37704446)">
+    <rect
+       style="fill:url(#radialGradient1981);fill-opacity:1;stroke-width:0.264583"
+       id="rect1902"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1983);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1908"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1983);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1983);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1904">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1985);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1912"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1910"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1985);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1987);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1916"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1987);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1989);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1920"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1989);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:label="puzzle"
+     id="g1944"
+     clip-path="url(#clipPath1953)"
+     transform="translate(219.81691,1.1311336)">
+    <rect
+       style="fill:url(#radialGradient1967);fill-opacity:1;stroke-width:0.264583"
+       id="rect1924"
+       width="158.75"
+       height="158.75"
+       x="-2.6978419e-14"
+       y="-1.8829383e-14" />
+    <text
+       xml:space="preserve"
+       style="font-size:81.2981px;fill:url(#radialGradient1969);fill-opacity:1;stroke-width:6.77489"
+       x="28.037567"
+       y="18.171646"
+       id="text1930"
+       transform="matrix(0.87972511,0.83470176,-0.71781,0.45564544,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1969);fill-opacity:1;stroke-width:6.77489"
+         x="28.037567"
+         y="18.171646"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.2981px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1969);fill-opacity:1;stroke-width:6.77489"
+   id="tspan1926">the</tspan>  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:74.2377px;fill:url(#radialGradient1971);fill-opacity:1;stroke-width:6.18646"
+       x="-129.36249"
+       y="167.78221"
+       id="text1934"
+       transform="matrix(0.8110543,-1.0743723,0.91276234,0.02386211,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1932"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.2377px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1971);fill-opacity:1;stroke-width:6.18646"
+         x="-129.36249"
+         y="167.78221">solar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1973);fill-opacity:1;stroke-width:0.75005"
+       x="83.318764"
+       y="23.370785"
+       id="text1938"
+       transform="scale(0.7845542,1.2746092)"><tspan
+         sodipodi:role="line"
+         id="tspan1936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.5353px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1973);fill-opacity:1;stroke-width:0.75005"
+         x="83.318764"
+         y="23.370785">password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:Trattatello;-inkscape-font-specification:'Trattatello, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1975);fill-opacity:1;stroke-width:1.71469"
+       x="61.979733"
+       y="161.29295"
+       id="text1942"
+       transform="matrix(1.052291,-0.24361894,0.20881624,0.90196381,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1940"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.812px;font-family:'Party LET';-inkscape-font-specification:'Party LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#radialGradient1975);fill-opacity:1;stroke-width:1.71469"
+         x="61.979733"
+         y="161.29295">is</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="cuts" />
+</svg>
