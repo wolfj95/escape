@@ -1,7 +1,7 @@
-.password {
-    color: red;
+.not-password {
+    background-color: #FFFF00;
 }
 
 #password {
-    color: red;
+    background-color: #FFFF00;
 }
